@@ -35,6 +35,4 @@ Getting Started
 
 Screenshots
 -----------
-![image1](app/src/main/res/drawable/mars1.jpg)&nbsp;&nbsp;
-![image2](app/src/main/res/drawable/mars2.jpg)&nbsp;&nbsp;
-![image3](app/src/main/res/drawable/mars3.jpg)&nbsp;&nbsp;
+
