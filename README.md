@@ -24,9 +24,14 @@ Getting Started
 1. Kotlin
 2. Android Studio
 
+Screenshots
+-----------
+![image1](app/src/main/res/drawable/mars1.jpg)
+![image2](app/src/main/res/drawable/mars2.jpg)
+![image3](app/src/main/res/drawable/mars3.jpg)
+
 License
 -------
-
 Copyright (C) 2020 The Android Open Source Project.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
